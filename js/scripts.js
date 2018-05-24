@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function(){
 
 	var span = $("span");
 	    span.each(function(index, element) {
